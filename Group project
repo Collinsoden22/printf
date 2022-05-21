@@ -1,0 +1,56 @@
+e813317
+2 minutes ago
+Git stats
+ 2 commits
+Files
+Type
+Name
+Latest commit message
+Commit time
+README.md
+Create README.md
+2 minutes ago
+_printf.c
+My first Initial Commit
+15 minutes ago
+_put.c
+My first Initial Commit
+15 minutes ago
+convert_number.c
+My first Initial Commit
+15 minutes ago
+main.c
+My first Initial Commit
+15 minutes ago
+main.h
+My first Initial Commit
+15 minutes ago
+man_3_printf
+My first Initial Commit
+15 minutes ago
+number.c
+My first Initial Commit
+15 minutes ago
+params.c
+My first Initial Commit
+15 minutes ago
+print-functions.c
+My first Initial Commit
+15 minutes ago
+print-number.c
+My first Initial Commit
+15 minutes ago
+simple-printers.c
+My first Initial Commit
+15 minutes ago
+specifier.c
+My first Initial Commit
+15 minutes ago
+string-fields.c
+My first Initial Commit
+15 minutes ago
+README.md
+0x10. C - printf
+Description
+This team project is part of the first year curriculum of ALX School. _printf replicates the C standard library printf() function.
+
